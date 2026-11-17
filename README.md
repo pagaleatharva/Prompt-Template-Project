@@ -101,7 +101,7 @@ GROQ_API_KEY=your_groq_api_key
 
 Get your API key from [Groq Console](https://console.groq.com/keys).
 
-**Important:** Never upload your `.env` file or expose your API key on GitHub.
+
 
 ## ▶️ Run the Project
 
@@ -123,18 +123,15 @@ uv run python chatmodel/chat.py
 uv run python chatmodel/structure.py
 ```
 
-## 📸 Application Screenshots
+## 📸 Project Screenshots
 
-### Chatbot Interface
+### 1. Chatbot Interface
 
-![Chatbot Interface](images/chatbot-home.png)
+![Chatbot Interface](images/prompttemplate.png)
 
-### Chatbot Response
+### 2. Chatbot Output
 
-![Chatbot Response](images/chatbot-response.png)
-
-*Add your actual screenshots inside the `images/` folder using the filenames shown above.*
-
+![Chatbot Output](images/prompttemleat2.png)
 ## 🎯 Learning Outcomes
 
 Through this project, I explored:
